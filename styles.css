@@ -36,3 +36,17 @@ th {
 tr:hover {
     background-color: #f5f5f5;
 }
+
+/* make class  with a green like color with white letters and very nice transitions */
+.carlos-rules {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
